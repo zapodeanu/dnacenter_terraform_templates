@@ -1,0 +1,10 @@
+!
+snmp-server host 10.93.135.30 version 2c RO
+snmp-server host 10.93.130.50 version 2c RW
+!
+ntp server 171.68.48.78
+ntp server 171.68.38.53
+no ntp server 171.68.48.80
+no ntp source Loopback1
+ntp source Loopback0
+!

@@ -1,0 +1,9 @@
+!
+logging buffered 8192
+logging host 10.93.141.37 transport udp port 8514
+logging source-interface Loopback100
+no logging host 10.93.141.1 transport udp port 8514
+!
+service timestamps debug datetime localtime
+service timestamps log datetime localtime
+!
