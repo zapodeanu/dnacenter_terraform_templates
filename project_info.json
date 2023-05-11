@@ -3,7 +3,6 @@
   "templates":
     [
       "csr_logging",
-      "snmp_ntp",
       "aaa_config"
     ]
 }
