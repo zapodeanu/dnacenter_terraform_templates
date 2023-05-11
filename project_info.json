@@ -2,7 +2,6 @@
   "project_name": "Terraform_Project",
   "templates":
     [ "csr_logging",
-      "snmp_ntp",
-      "aaa_config"
+      "snmp_ntp"
     ]
 }
