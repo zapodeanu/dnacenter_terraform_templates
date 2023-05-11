@@ -1,1 +1,1 @@
-{"project_name": "Terraform_Project", "templates": ["aaa_config", "csr_logging", "snmp_ntp"]}
+{"project_name": "Terraform_Project", "templates": ["aaa_config", "csr_logging"]}
