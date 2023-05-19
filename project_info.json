@@ -3,6 +3,7 @@
   "templates":
     {
       "t2": "aaa_config",
+      "t1": "snmp_ntp",
       "t5": "csr_logging"
     }
 }
