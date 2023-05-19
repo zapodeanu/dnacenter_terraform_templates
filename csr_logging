@@ -1,5 +1,5 @@
 !
-logging buffered 81920
+logging buffered 8192
 logging host {{ snmpServer }} transport udp port 8514
 logging source-interface Loopback{{ interfaceNumber }}
 no logging host 10.93.141.1 transport udp port 8514
