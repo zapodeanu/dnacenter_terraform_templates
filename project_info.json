@@ -4,6 +4,6 @@
     {
       "t2": "aaa_config",
       "t5": "csr_logging",
-      "ta": "snmp_ntp"
+      "t1": "snmp_ntp"
     }
 }
